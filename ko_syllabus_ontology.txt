@@ -1,0 +1,24 @@
+ko:SurveyResponse,Survey Response
+
+ko:startDate,Start Date
+ko:endDate,End Date
+ko:ipAddress,IP Address
+ko:progress,Progress
+ko:duration,Duration
+ko:finished,Finished
+ko:recordedDate,Recorded Date
+ko:responseID,Response ID
+ko:locationLatitude,Location Latitude
+ko:locationLongitude,Location Longitude
+ko:userLanguage,User Language
+ko:contactFirstName,Contact First Name
+ko:contactLastName,Contact Last Name
+ko:contactEmail,Contact Email
+ko:courseTitle,Course Title
+ko:institutionalLocation,Institutional Location
+ko:geographicLocation,Geographic Location
+ko:disciplinaryPerspectives,Disciplinary Perspectives
+ko:courseTopics,Course Topics
+ko:courseLevel,Course Level
+ko:instructionalModality,Instructional Modality
+ko:attachmentID,Attachment ID
